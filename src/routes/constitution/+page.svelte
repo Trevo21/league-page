@@ -1,3 +1,27 @@
+<!-- Copy and paste the converted output. -->
+
+<!-----
+
+
+
+Conversion time: 7.717 seconds.
+
+
+Using this HTML file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs™ to Markdown version 2.0β2
+* Wed Jul 29 2026 15:56:16 GMT-0700 (Pacific Daylight Time)
+* Source doc: Copy of Night Fishin’ League Constitution
+----->
+
+
 <p style="text-align: center">
 Night Fishin’ League Constitution
 </p>
@@ -663,6 +687,8 @@ Our draft is not a snake, rather a list that repeats itself each round. Draft pi
 <li><strong>TBD - Commish Updates Key Dates </strong> – A basic calendar spotlighting key dates for the upcoming Night Fishin League year will be made available for the league members. Items can be added/removed from this calendar at anytime. </li>
 </ul>
 <p>
+ 
+</p>
  
 </p><script>
     import { dues } from '$lib/utils/helper';
