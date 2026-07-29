@@ -100,16 +100,16 @@
     
     <h2 class="noUnderscore">TABLE OF CONTENTS</h2>
     
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(one)}>Section 1: League Profile</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(two)}>Section 2: League Rules</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(three)}>Section 3: Scoring Settings</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(four)}>Section 4: League Fees</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(five)}>Section 5: Co-Owners, Divisions, League Schedule & Playoff Setting</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(six)}>Section 6: Trophy & Roster</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(seven)}>Section 7: League Keepers & Draft</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(eight)}>Section 8: Draft Order</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(nine)}>Section 9: League Calendar & Rule Changes</h3>
-    <h3 class="noUnderscore clickable" onclick={() => goToSection(ten)}>Section 10: Special COVID Rules for 2020 Season</h3>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(one)}>Section 1: League Profile</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(two)}>Section 2: League Rules</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(three)}>Section 3: Scoring Settings</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(four)}>Section 4: League Fees</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(five)}>Section 5: Co-Owners, Divisions, League Schedule & Playoff Setting</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(six)}>Section 6: Trophy & Roster</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(seven)}>Section 7: League Keepers & Draft</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(eight)}>Section 8: Draft Order</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(nine)}>Section 9: League Calendar & Rule Changes</h4>
+    <h4 class="noUnderscore clickable" onclick={() => goToSection(ten)}>Section 10: Special COVID Rules for 2020 Season</h4>
 
     
 
