@@ -36,7 +36,7 @@
     }
 
     h3 {
-        text-decoration: underline;
+       /* text-decoration: underline;*/
         font-size: 1.3em;
         line-height: 1.2em;
     }
