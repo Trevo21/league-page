@@ -117,9 +117,8 @@
     
     <h2 class="sectionHeading" bind:this={one}>Section 1 League Profile</h2>
     
-    <h3 class="subSectionHeading" bind:this={oneOne}>1.1 Positional Breakdown</h3>
-    
-    <p>28 Total Players</p>
+    <p>League Name: Night Fishin League</p>
+    <p>League Commissioner: Steven Gross (2013-Present)</p>
     
     <p class="underscore">Starters</p>
     <ul>
