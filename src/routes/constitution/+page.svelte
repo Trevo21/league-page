@@ -115,7 +115,7 @@
 
     <hr />
     
-    <h2 class="sectionHeading" bind:this={one}>Section 1 League Profile</h2>
+    <h2 class="sectionHeading" bind:this={one}>Section 1: League Profile</h2>
     
     <h3>League Name  – Night Fishin League</h3>
     <h3>Commissioner – Steven Gross (2013-Present)</h3>
@@ -123,11 +123,41 @@
             <li>In charge of arranging draft party and festivities included with it</li>
     </ul>
     <h3>Draft Superintendent – Cameron Parker</h3>
+    <ul>
+            <li>In charge of arranging draft party and festivities included with it</li>
+    </ul>
     <h3>Director of Trophies – Matthew Halton</h3>
+    <ul>
+            <li>In charge of current and future trophy matters</li>
+    </ul>
     <h3>Director of Divisional Forecasting & Parlay Strategy – OPEN</h3>
+    <ul>
+            <li>In charge of placing a unified parlay bet of NFL divisional winners on behalf of the league</li>
+    </ul>
     <p>*Granted Co-Commissioner Controls</p>
     
-    <p class="underscore">Starters</p>
+    
+    <h2 class="sectionHeading" bind:this={two}>Section 2: League Rules</h2>
+
+    <p>Undroppable List: None</p>
+<p>Max Adds per Season: No</p>
+<p>Max Adds per Week: No</p>
+<p>Max Trades per Season: No</p>
+<p>Trade Review Type: No Review - Commish can reverse action on outlandish trades</p>
+<p>Trade Deadline: Week 11</p>
+<p>Waiver Period: 1 day</p>
+<p>Waiver Type: FAAB ($100) - FAAB is tradable</p>
+<p>Free Agent Lock Type: Yes (player locks at game time)</p>
+<p>Start of Season: Week 1</p>
+<p>Keeper Settings: 5 Keepers</p>
+<p>Keeper Lock Date: Exactly 1 week before league draft</p>
+<p>Standings Tiebreaker:</p>
+<p>Allow Matchup Ties: Yes</p>
+<p>Allow Draft Pick Trades: Teams may make trades for picks in the upcoming year. The only period at which trades for the current year and upcoming year can be made at the same time is during the draft. </p>
+
+
+
+<p class="underscore">Starters</p>
     <ul>
         <li>QB</li>
         <li>RB</li>
