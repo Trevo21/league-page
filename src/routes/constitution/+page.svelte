@@ -117,14 +117,14 @@
     
     <h2 class="sectionHeading" bind:this={one}>Section 1 League Profile</h2>
     
-    <h5>League Name  – Night Fishin League</h5>
-    <h5>Commissioner – Steven Gross (2013-Present)</h5>
+    <h3>League Name  – Night Fishin League</h3>
+    <h3>Commissioner – Steven Gross (2013-Present)</h3>
     <ul>
             <li>In charge of arranging draft party and festivities included with it</li>
     </ul>
-    <h5>Draft Superintendent – Cameron Parker</h5>
-    <h5>Director of Trophies – Matthew Halton</h5>
-    <h5>Director of Divisional Forecasting & Parlay Strategy – OPEN</h5>
+    <h3>Draft Superintendent – Cameron Parker</h3>
+    <h3>Director of Trophies – Matthew Halton</h3>
+    <h3>Director of Divisional Forecasting & Parlay Strategy – OPEN</h3>
     <p>*Granted Co-Commissioner Controls</p>
     
     <p class="underscore">Starters</p>
