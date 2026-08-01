@@ -201,7 +201,7 @@ Rushing/Receiving Touchdowns: 6 points
  
 </p>
 <p style="text-align: center">
-<span style="text-decoration:underline;">Offense – Miscellaneous</span>
+Offense – Miscellaneous
 </p>
 <p>
  
