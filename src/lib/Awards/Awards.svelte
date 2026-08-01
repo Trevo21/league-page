@@ -390,7 +390,7 @@
 		<!-- champs -->
 		<img src="/managers/james.jpg" class="first champ" alt="champion" />
 		<img src="/laurel.png" class="laurel" alt="laurel" />
-		<p><span class="label firstLabel" James</span></p>
+		<p><span class="label firstLabel"> James </span></p>
 
 		<!-- <img src="{getAvatarFromTeamManagers(leagueTeamManagers, second, year)}" class="second champ clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: second})} alt="2nd" />
 		<span class="label secondLabel clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: second})}>{@html getNestedTeamNamesFromTeamManagers(leagueTeamManagers, year, second)}</span>
