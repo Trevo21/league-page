@@ -1,696 +1,3 @@
-<!-- Copy and paste the converted output. -->
-
-<!-----
-
-
-
-Conversion time: 7.717 seconds.
-
-
-Using this HTML file:
-
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs™ to Markdown version 2.0β2
-* Wed Jul 29 2026 15:56:16 GMT-0700 (Pacific Daylight Time)
-* Source doc: Copy of Night Fishin’ League Constitution
------>
-
-
-<p style="text-align: center">
-Night Fishin’ League Constitution
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-Table of Contents
-</p>
-<p style="text-align: center">
-Cover – Page 1
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-Table of Contents – Page 2
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-League Profile – Page 3
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-League Settings – Page 4
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-Scoring Settings – Page 5/6
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-League Fees – Page 7
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-Co-Owners, Divisions, League Schedule & Playoff Settings – Page 8
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-Trophy & Roster – Page 9
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-League Keepers & Draft – Page 10
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-Draft Order – Page 10/11
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-League Calendar & Rule Changes – Page 12
-</p>
-<p style="text-align: center">
-Special COVID Rules for 2020 Season - Page 13
-</p>
-<p>
-League Name: Night Fishin League
-</p>
-<p>
-League Commissioner: Steven Gross (2013-Present)
-</p>
-<p>
- 
-</p>
-<p>
-Our league humbly began in 2013 among friends who lived in Jacksonville, Orlando, Gainesville, Lakeland and Indiana. Since then our league has continued to strengthen its legacy.
-</p>
-<p>
- 
-</p>
-<p>
-Some of the things that make our league so incredibly legendary include a sweet trophy, an annual draft party and our unique 5 keeper system.
-</p>
-<p>
- 
-</p>
-<p>
-Thank you to all the current and past owners for making our league special from day 1. The Night Fishin League has a storied history and an undoubtedly thrilling future ahead.
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-League Governance 
-</p>
-<p>
-Commissioner – Steven Gross
-</p>
-<p>
-
-    ·         Commish of the Night Fishin’ League
-</p>
-<p>
- 
-</p>
-<p>
-Draft Superintendent – Cameron Parker*
-</p>
-<p>
-
-    ·         In charge of arranging draft party and festivities included with it
-</p>
-<p>
- 
-</p>
-<p>
-Director of Trophies – Matthew Halton*
-</p>
-<p>
-
-    ·         In charge of current and future trophy matters
-</p>
-<p>
-Director of Divisional Forecasting & Parlay Strategy – Freddy Mullen
-</p>
-<p>
-
-    ·         In charge of placing a unified parlay bet of NFL divisional winners on behalf of the league
-</p>
-<p>
-
-    *Granted co-commissioner controls
-</p>
-<p style="text-align: center">
-League Settings
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Undroppable List: None
-</p>
-<p>
-Max Adds per Season: No
-</p>
-<p>
-Max Adds per Week: No
-</p>
-<p>
-Max Trades per Season: No
-</p>
-<p>
-Trade Review Type: No Review - Commish can reverse action on outlandish trades
-</p>
-<p>
-Trade Deadline: Week 11
-</p>
-<p>
-Waiver Period: 1 day
-</p>
-<p>
-Waiver Type: FAAB ($100) - FAAB is tradable
-</p>
-<p>
-Free Agent Lock Type: Yes (player locks at game time)
-</p>
-<p>
-Start of Season: Week 1
-</p>
-<p>
-Keeper Settings: 5 Keepers
-</p>
-<p>
-Keeper Lock Date: Exactly 1 week before league draft
-</p>
-<p>
-Standings Tiebreaker:
-</p>
-<p>
-
-    1.      Divisional Record
-</p>
-<p>
-
-    2.      Head to Head Record
-</p>
-<p>
-
-    3.      Total Points
-</p>
-<p>
-Allow Matchup Ties: Yes
-</p>
-<p>
-Allow Draft Pick Trades: Teams may make trades for picks in the upcoming year. The only period at which trades for the current year and upcoming year can be made at the same time is during the draft. 
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-Scoring Settings
-</p>
-<p style="text-align: center">
-<span style="text-decoration:underline;">Offense – Passing</span>
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Passing Yards: 1 point for every 25 yards
-</p>
-<p>
-Passing Touchdowns: 4 points
-</p>
-<p>
-Interceptions Thrown: -2 points
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-<span style="text-decoration:underline;">Offense – Rushing/Receiving</span>
-</p>
-<p>
- 
-</p>
-<p>
-Rushing/Receiving Yards: 1 point for every 10 yards
-</p>
-<p>
-Rushing/Receiving Touchdowns: 6 points
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-<span style="text-decoration:underline;">Offense – Miscellaneous</span>
-</p>
-<p>
- 
-</p>
-<p>
-Fumble Recovered for a Touchdown: 6 points
-</p>
-<p>
-2 Point Conversion: 2 points
-</p>
-<p>
-Fumbles Lost: -2 points
-</p>
-<p>
-** Marginal points are used for offensive yardage
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-<span style="text-decoration:underline;">Kicking</span> 
-</p>
-<p>
-PAT Made: 1 point
-</p>
-<p>
-FG Made 0-49: 3 points
-</p>
-<p>
-FG Made 50+: 5 points
-</p>
-<p style="text-align: center">
-Scoring Settings Cont.
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-<span style="text-decoration:underline;">Defense/Special Teams</span>
-</p>
-<p>
- 
-</p>
-<p>
-Sacks: 1 point
-</p>
-<p>
-Interceptions: 2 points
-</p>
-<p>
-Fumbles Recovered: 2 points
-</p>
-<p>
-Safeties: 2 points
-</p>
-<p>
-Touchdowns: 6 points
-</p>
-<p>
-Kickoff and Punt Return Touchdowns: 6 points
-</p>
-<p>
-0 Points Allowed: 10 points
-</p>
-<p>
-1-6 Points Allowed: 7 points
-</p>
-<p>
-7-13 Points Allowed: 4 points
-</p>
-<p>
-14-20 Points Allowed: 1 point
-</p>
-<p>
-21-27 Points Allowed: 0 points
-</p>
-<p>
-28-34 Points Allowed: -1 point
-</p>
-<p>
-35+ Points Allowed: -4 points
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-League Fees
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-League fees increase by 10 dollars each year. League fees contribute to winner payouts. Winners are paid as follows:
-</p>
-<p>
- 
-</p>
-<p>
-Champ – 66.6% (8 paying people)
-</p>
-<p>
-Runner Up – 25% (3 paying people)
-</p>
-<p>
-Third Place – Money back (1 paying person)
-</p>
-<p>
- 
-</p>
-<p>
-When it’s time for a new trophy, a fraction of each owner’s league fee will be earmarked to split the cost of a new trophy, resulting in slightly lower payouts for winners in trophy years. Trophies will have multiple spots for champions over multiple years. Etching the winner’s name into a trophy is covered by the commissioner.
-</p>
-<p>
-Our league follows the “no flex zone” rule where your flex position is disabled until you’ve paid your yearly league dues. 
-</p>
-<p style="text-align: center">
-Parlay Fee
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Each team will contribute an extra 5 dollars on top of their regular league fees each year to fund a 60 dollar parlay for division winners. The parlay is managed by Freddy. If the parlay hits, it will fund a future draft party.
-</p>
-<p style="text-align: center">
-Co-owners
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Co-owners are welcome to join an existing team with the current owner’s permission. A current owner can terminate that relationship at any time. Co-owners will be given priority should a team open up for ownership.
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-Divisions
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Our league consists of 3 divisions: North, Central & South. The bottom team in the regular season from each division will switch divisions for the next season (N>C>S)
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-League Schedule
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Each individual will play 14 regular season games. Teams play everyone in the league once and all divisional opponents twice. In the first 11 games of the season, you’ll play everyone once in a randomized schedule. In the final 3 games of the season, you’ll play each person from your division (for the second time) in a randomized order.
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-Playoff Settings
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Each division winner will make the playoffs. The 2 division winners with the best records will get a first round bye. The division winner with the worst record will get the third seed. The next three seeds will be wildcards regardless of division.
-</p>
-<p style="text-align: center">
-Trophy
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-We have a trophy. Our current (and only) trophy has 12 spots for league champions. At the end of twelve years, the owner who has their name on the trophy the most amount of times will own the trophy forever. Tie-breaker will be the same way we handle tiebreakers (divisional record followed by head-to-head record followed by points scored).
-</p>
-<p style="text-align: center">
-Roster 
-</p>
-<p>
-<span style="text-decoration:underline;">Starting Positions</span>
-</p>
-<p>
-QB
-</p>
-<p>
-RB
-</p>
-<p>
-RB
-</p>
-<p>
-WR
-</p>
-<p>
-WR
-</p>
-<p>
-TE
-</p>
-<p>
-K
-</p>
-<p>
-DEF
-</p>
-<p>
-WR/RB/TE
-</p>
-<p>
-<strong>IR</strong> - Team can also carry up to 6 bench players and an IR spot (<strong><span style="text-decoration:underline;">IR, COVID and OUT players are eligible for IR</span></strong>), regardless of position. If a player is in the IR spot and becomes ineligible for the IR spot (ex: they become upgraded to questionable), the owner of that roster won’t face any point deduction or forfeit penalty - however their roster will lock until they move their player out of IR and their roster doesn’t exceed the max amount of players. 
-</p>
-<p style="text-align: center">
-League Keepers
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Following a season, each owner picks 5 players from their current roster to be on their team for the upcoming season. Players can be at any position. Keepers can be picked and switched any time between the league renewal and a week before the draft. Exactly 1 week before the draft, down to the exact hour, keepers will lock, making the pool of players available to the public to potentially be claimed in the draft.  
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-  Draft
-</p>
-<p>
-Draft Format: Standard
-</p>
-<p>
-Time Per Pick: 120 seconds
-</p>
-<p>
-Draft type: Live online draft
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-Draft Order
-</p>
-<p>
- 
-</p>
-<p>
-Every single pick EXCEPT FOR the first 6 overall picks are determined as follows.
-</p>
-<p>
-Non Playoff Teams: Worst team gets highest pick. If records are even the same tie breakers are used to determine the weaker team. For example if there are 2 teams at 3-10, the team with the worse divisional record is recognized as the worse team and will get the better pick.
-</p>
-<p>
-Playoff Teams: The champ will get the 12<sup>th</sup> overall pick, second will get 11<sup>th</sup> . The rest of the picks will be determined by how many points your team scored during the week you were eliminated. For example, if your team loses in the first round of the playoffs and you score 70 points, you would have the 7<sup>th</sup> overall pick if the other team who was eliminated puts up 80 points.  
-</p>
-<p style="text-align: center">
-Draft Order Cont.
-</p>
-<p>
- 
-</p>
-<p style="text-align: center">
-<span style="text-decoration:underline;">Rounds 2-10 (All Rounds for Playoff Teams)</span>
-</p>
-<p style="text-align: center">
- 
-</p>
-<p>
-Pick 1: Worst Record
-</p>
-<p>
-Pick 2: Second Worst Record
-</p>
-<p>
-Pick 3: Third Worst Record
-</p>
-<p>
-Pick 4: Fourth Worst Record
-</p>
-<p>
-Pick 5: Fifth Worst Record
-</p>
-<p>
-Pick 6: Sixth Worst Record
-</p>
-<p>
-Pick 7: Playoff Week 1 eliminated team with fewer points scored that week
-</p>
-<p>
-Pick 8: Playoff Week 1 eliminated team with more points scored that week
-</p>
-<p>
-Pick 9: Playoff Week 2 eliminated team with fewer points scored that week
-</p>
-<p>
-Pick 10: Playoff Week 2 eliminated team with more points scored that week
-</p>
-<p>
-Pick 11: Runner up
-</p>
-<p>
-Pick 12: Champ
-</p>
-<p>
- 
-</p>
-<p>
-Picks 1-6 in the <strong>first round only</strong> are determined by final placement in the consolation bracket. The team that wins the consolation bracket will receive the first overall pick in the draft, second place will get the second overall pick, so on and so forth. This adds value to the entire season and helps to eliminate tanking.
-</p>
-<p>
- 
-</p>
-<p>
-Our draft is not a snake, rather a list that repeats itself each round. Draft picks can be traded.
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
-2026 League Calendar (More or Less)
-</p>
-<p>
-<strong><span style="text-decoration:underline;">January</span></strong>
-</p>
-<ul>
-
-<li><strong>1/1 - Night Fishin League season closes</strong> – Period of rest until league renewal</li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">February</span></strong>
-</p>
-<ul>
-
-<li><strong>3/9 - League renewal @ 9:00 AM</strong> – Commissioner will hit the renewal button to welcome in the new season. Trades may begin at this time</li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">March</span></strong>
-</p>
-<p>
-<strong><span style="text-decoration:underline;">April</span></strong>
-</p>
-<p>
-<strong><span style="text-decoration:underline;">May</span></strong>
-</p>
-<ul>
-
-<li><strong>5/1 - Night Fishin Feedback Survey goes out</strong> – Annual feedback survey for owners is released </li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">June</span></strong>
-</p>
-<p>
-<strong><span style="text-decoration:underline;">July</span></strong>
-</p>
-<ul>
-
-<li><strong>7/1 - Schedule release</strong> – Commissioner will unveil full schedule</li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">August</span></strong>
-</p>
-<ul>
-
-<li><strong>TBD - One week before the draft</strong> – Keepers are locked. Your roster is essentially trimmed to 5 players. You can trade your keepers and your draft picks.</li>
-
-<li><strong>TBD - 24 hours prior to the draft</strong> - Everything is locked, no trading</li>
-
-<li><strong>TBD - Draft</strong> - only period when trading for current and upcoming year can take place</li>
-
-<li><strong>TBD - Immediately after the draft</strong> – You can trade players and picks and you can add/drop at your leisure</li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">September</span></strong>
-</p>
-<ul>
-
-<li><strong>Night Fishin League playing season begins</strong> – Keepers are locked. Your roster is essentially trimmed to 5 players. You can trade your keepers and your draft picks.</li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">October</span></strong>
-</p>
-<p>
-<strong><span style="text-decoration:underline;">November</span></strong>
-</p>
-<ul>
-
-<li><strong>TBD - Trade Deadline (Mid-November)</strong> – The trade deadline will be made clear well in advance each year, but occurs on week 11. At this point no trading of any sort can occur. Add/drops are still permitted at your leisure.</li>
-</ul>
-<p>
-<strong><span style="text-decoration:underline;">December</span></strong>
-</p>
-<ul>
-
-<li><strong>TBD - Commish Updates Key Dates </strong> – A basic calendar spotlighting key dates for the upcoming Night Fishin League year will be made available for the league members. Items can be added/removed from this calendar at anytime. </li>
-</ul>
-<p>
- 
-</p>
- 
-</p><script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
@@ -844,9 +151,138 @@ Our draft is not a snake, rather a list that repeats itself each round. Draft pi
 <p>Keeper Settings: 5 Keepers</p>
 <p>Keeper Lock Date: Exactly 1 week before league draft</p>
 <p>Standings Tiebreaker:</p>
+<p>
+
+    1.      Divisional Record
+</p>
+<p>
+
+    2.      Head to Head Record
+</p>
+<p>
+
+    3.      Total Points
+</p>
 <p>Allow Matchup Ties: Yes</p>
 <p>Allow Draft Pick Trades: Teams may make trades for picks in the upcoming year. The only period at which trades for the current year and upcoming year can be made at the same time is during the draft. </p>
 
+<h2 class="sectionHeading" bind:this={two}>Section 2: Scoring Settings</h2>
+<span style="text-decoration:underline;">Offense – Passing</span>
+</p>
+<p style="text-align: center">
+ 
+</p>
+<p>
+Passing Yards: 1 point for every 25 yards
+</p>
+<p>
+Passing Touchdowns: 4 points
+</p>
+<p>
+Interceptions Thrown: -2 points
+</p>
+<p>
+ 
+</p>
+<p style="text-align: center">
+<span style="text-decoration:underline;">Offense – Rushing/Receiving</span>
+</p>
+<p>
+ 
+</p>
+<p>
+Rushing/Receiving Yards: 1 point for every 10 yards
+</p>
+<p>
+Rushing/Receiving Touchdowns: 6 points
+</p>
+<p>
+ 
+</p>
+<p style="text-align: center">
+<span style="text-decoration:underline;">Offense – Miscellaneous</span>
+</p>
+<p>
+ 
+</p>
+<p>
+Fumble Recovered for a Touchdown: 6 points
+</p>
+<p>
+2 Point Conversion: 2 points
+</p>
+<p>
+Fumbles Lost: -2 points
+</p>
+<p>
+** Marginal points are used for offensive yardage
+</p>
+<p>
+ 
+</p>
+<p style="text-align: center">
+<span style="text-decoration:underline;">Kicking</span> 
+</p>
+<p>
+PAT Made: 1 point
+</p>
+<p>
+FG Made 0-49: 3 points
+</p>
+<p>
+FG Made 50+: 5 points
+</p>
+<p style="text-align: center">
+Scoring Settings Cont.
+</p>
+<p style="text-align: center">
+ 
+</p>
+<p style="text-align: center">
+<span style="text-decoration:underline;">Defense/Special Teams</span>
+</p>
+<p>
+ 
+</p>
+<p>
+Sacks: 1 point
+</p>
+<p>
+Interceptions: 2 points
+</p>
+<p>
+Fumbles Recovered: 2 points
+</p>
+<p>
+Safeties: 2 points
+</p>
+<p>
+Touchdowns: 6 points
+</p>
+<p>
+Kickoff and Punt Return Touchdowns: 6 points
+</p>
+<p>
+0 Points Allowed: 10 points
+</p>
+<p>
+1-6 Points Allowed: 7 points
+</p>
+<p>
+7-13 Points Allowed: 4 points
+</p>
+<p>
+14-20 Points Allowed: 1 point
+</p>
+<p>
+21-27 Points Allowed: 0 points
+</p>
+<p>
+28-34 Points Allowed: -1 point
+</p>
+<p>
+35+ Points Allowed: -4 points
+</p>
 
 
 <p class="underscore">Starters</p>
