@@ -129,8 +129,7 @@
 
     .bio {
 		align-items: center;
-        margin: 2em 1.5em 2em;
-        text-indent: 4em;
+        margin: 1.5em 0 0.5em;
     }
 
     .philosophy {
@@ -293,6 +292,7 @@
             </Group>
         </div>
 
+        <h3>BIO</h3>
         <p class="bio">{@html viewManager.bio}</p>
 
         {#if viewManager.philosophy}
