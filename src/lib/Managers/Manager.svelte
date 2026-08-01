@@ -295,7 +295,7 @@
         {#if viewManager.philosophy}
             <!-- philosophy is an optional field -->
             <h3>Team Philosophy</h3>
-            <p class="philosophy"><center>{@html viewManager.philosophy}</center></p>
+            <center><p class="philosophy">{@html viewManager.philosophy}</p></center>
         {/if}
     </div>
 
