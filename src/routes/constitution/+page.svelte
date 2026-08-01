@@ -109,7 +109,7 @@
 
     .clickable:hover {
         color: #00316b;
-    }
+    }*/
 
     /*p {
         color: #000;
