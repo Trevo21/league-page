@@ -1,4 +1,9 @@
-<script>
+<div class="constitution">
+<style="text-align: center">
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vRwbGVRctpu80Dn5DB23sf_36GUuINp_MV-qxm9PY1Dfy5FVxFp2y_7GRspb4VGz-lziilnsqJp5X06/pub?embedded=true"></iframe>
+</div>
+
+/*<script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
@@ -277,4 +282,4 @@ Kickoff and Punt Return Touchdowns: 6 points
 
     <h2 class="sectionHeading" bind:this={five}>Section 5 Tanking Policy</h2>
 
-</div>
+</div>*/
