@@ -91,7 +91,7 @@
     }
 
     p {
-        color: #FFF;
+        color: #000;
     }
 </style>
 
