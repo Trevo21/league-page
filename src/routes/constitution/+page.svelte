@@ -65,7 +65,7 @@
     h4 {
         text-decoration: underline;
         /*margin-left: 2em;*/
-        font-size: 1.2em;
+      /*  font-size: 1.2em;
         line-height: 1.2em;
     }
 
