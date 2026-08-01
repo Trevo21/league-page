@@ -1,21 +1,4 @@
-<script>
-    import { dues } from '$lib/utils/helper';
-    let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
-    let two, twoOne, twoTwo, twoThree;
-    let three, threeOne;
-    let four, fourOne, fourTwo;
-    let five, fiveOne;
-    let six, sixOne, sixTwo, sixThree;
-    let seven, sevenOne, sevenTwo, sevenThree;
-
-    const goToSection = (section) => {
-        const top = section.getBoundingClientRect().top + window.pageYOffset;
-        window.scrollTo({left: 0, top, behavior: 'smooth'});
-    }
-</script>
-
-<div class="constitution">
-<style="text-align: center">
+<div class="constitution"><style="text-align: center">
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRwbGVRctpu80Dn5DB23sf_36GUuINp_MV-qxm9PY1Dfy5FVxFp2y_7GRspb4VGz-lziilnsqJp5X06/pub?embedded=true"></iframe>
 </div>
 
