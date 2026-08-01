@@ -233,7 +233,10 @@
         
         <div class="basicInfo">
             <span class="infoChild">{viewManager.location || 'Undisclosed Location'}</span>
-            {#if viewManager.managerID && datesActive.start}
+            <span class="seperator">|</span>
+            <span class="infoChild">{viewManager.tookOver || 'Undisclosed Location'}</span>
+            
+            <!-- {#if viewManager.managerID && datesActive.start}
                 <span class="seperator">|</span>
                 {#if datesActive.end}
                     <span class="infoChild">In the league from '{datesActive.start.toString().substr(2)} to '{datesActive.end.toString().substr(2)}</span>
@@ -241,10 +244,10 @@
                     <span class="infoChild">In the league since '{datesActive.start.toString().substr(2)}</span>
                 {/if}
             {:else if viewManager.fantasyStart}
-                <!-- fantasyStart is an optional field -->
-                <span class="seperator">|</span>
+                fantasyStart is an optional field -->
+                <!-- <span class="seperator">|</span>
                 <span class="infoChild">Playing ff since '{viewManager.fantasyStart.toString().substr(2)}</span>
-            {/if}
+            {/if} -->
             {#if viewManager.preferredContact}
                 <!-- preferredContact is an optional field -->
                 <span class="seperator">|</span>
