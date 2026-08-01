@@ -168,9 +168,7 @@
 <p>Allow Draft Pick Trades: Teams may make trades for picks in the upcoming year. The only period at which trades for the current year and upcoming year can be made at the same time is during the draft. </p>
 
 <h2 class="sectionHeading" bind:this={three}>Section 3: Scoring Settings</h2>
-<p>
-Offense – Passing
-</p>
+<h3>Offense – Passing</h3>
 <p style="text-align: center">
  
 </p>
@@ -183,15 +181,9 @@ Passing Touchdowns: 4 points
 <p>
 Interceptions Thrown: -2 points
 </p>
-<p>
- 
-</p>
-<p style="text-align: center">
+<h3 style="text-align: center">
 Offense – Rushing/Receiving
-</p>
-<p>
- 
-</p>
+</h3>
 <p>
 Rushing/Receiving Yards: 1 point for every 10 yards
 </p>
@@ -201,12 +193,9 @@ Rushing/Receiving Touchdowns: 6 points
 <p>
  
 </p>
-<p style="text-align: center">
+<h3 style="text-align: center">
 Offense – Miscellaneous
-</p>
-<p>
- 
-</p>
+</h3>
 <p>
 Fumble Recovered for a Touchdown: 6 points
 </p>
@@ -219,12 +208,9 @@ Fumbles Lost: -2 points
 <p>
 ** Marginal points are used for offensive yardage
 </p>
-<p>
- 
-</p>
-<p style="text-align: center">
+<h3 style="text-align: center">
 Kicking
-</p>
+</h3>
 <p>
 PAT Made: 1 point
 </p>
@@ -234,18 +220,9 @@ FG Made 0-49: 3 points
 <p>
 FG Made 50+: 5 points
 </p>
-<p style="text-align: center">
-Scoring Settings Cont.
-</p>
-<p style="text-align: center">
- 
-</p>
-<p style="text-align: center">
+<h3 style="text-align: center">
 Defense/Special Teams
-</p>
-<p>
- 
-</p>
+</h3>
 <p>
 Sacks: 1 point
 </p>
