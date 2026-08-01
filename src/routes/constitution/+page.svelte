@@ -168,7 +168,7 @@
 <p>Allow Draft Pick Trades: Teams may make trades for picks in the upcoming year. The only period at which trades for the current year and upcoming year can be made at the same time is during the draft. </p>
 
 <h2 class="sectionHeading" bind:this={three}>Section 3: Scoring Settings</h2>
-<span style="text-decoration:underline;">Offense – Passing</span>
+Offense – Passing
 </p>
 <p style="text-align: center">
  
@@ -186,7 +186,7 @@ Interceptions Thrown: -2 points
  
 </p>
 <p style="text-align: center">
-<span style="text-decoration:underline;">Offense – Rushing/Receiving</span>
+Offense – Rushing/Receiving
 </p>
 <p>
  
@@ -222,7 +222,7 @@ Fumbles Lost: -2 points
  
 </p>
 <p style="text-align: center">
-<span style="text-decoration:underline;">Kicking</span> 
+Kicking
 </p>
 <p>
 PAT Made: 1 point
@@ -240,7 +240,7 @@ Scoring Settings Cont.
  
 </p>
 <p style="text-align: center">
-<span style="text-decoration:underline;">Defense/Special Teams</span>
+Defense/Special Teams
 </p>
 <p>
  
