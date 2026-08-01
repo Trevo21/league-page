@@ -43,7 +43,7 @@ src="https://docs.google.com/document/d/e/2PACX-1vRwbGVRctpu80Dn5DB23sf_36GUuINp
     }
 
     h3 {
-       /* text-decoration: underline;*/
+        text-decoration: underline;*/
        /* font-size: 1.3em;
         line-height: 1.2em;
     }
