@@ -135,7 +135,7 @@
 
     .philosophy {
         text-align: center
-        text-indent: 4em;
+        margin: 1.5em 0 0.5em;
     }
 
     .loading {
