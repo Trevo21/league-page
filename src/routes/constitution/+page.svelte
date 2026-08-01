@@ -5,6 +5,6 @@ src="https://docs.google.com/document/d/e/2PACX-1vRwbGVRctpu80Dn5DB23sf_36GUuINp
 width="700"
 height="900"
 frameborder="0"
-scrolling="no">
+scrolling="auto">
 </iframe>
 </div>
