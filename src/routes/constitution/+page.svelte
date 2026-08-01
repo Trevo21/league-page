@@ -179,7 +179,9 @@ Passing Touchdowns: 4 points
 <li>
 Interceptions Thrown: -2 points
 </li>
+</ul>
 <h4>Offense – Rushing/Receiving</h4>
+<ul>
 <li>
 Rushing/Receiving Yards: 1 point for every 10 yards
 </li>
