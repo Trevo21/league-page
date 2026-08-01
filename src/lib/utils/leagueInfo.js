@@ -29,7 +29,7 @@ export const managers = [
       "name": "Trevor",
       "tookOver": 2026, // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Jacksonville", // (optional)
-      "bio": "Long time co-manger that replaced Freddy when he retired,First Woman in the League",
+      "bio": "Long time co-manger that replaced Freddy when he retired, First Woman in the League",
       "photo": "/managers/trevor.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2009, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "jax", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
