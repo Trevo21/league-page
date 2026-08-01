@@ -90,9 +90,9 @@
         color: #00316b;
     }
 
-    p {
+    /*p {
         color: #000;
-    }
+    }*/
 </style>
 
 <div class="constitution">
