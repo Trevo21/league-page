@@ -134,7 +134,7 @@
     }
 
     .philosophy {
-        text-align: center
+        text-align: center;
         margin: 1.5em 0 0.5em;
     }
 
