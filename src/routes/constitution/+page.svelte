@@ -1,3 +1,4 @@
+<script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
