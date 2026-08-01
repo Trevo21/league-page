@@ -1,7 +1,7 @@
 <div class="constitution">
 <iframe 
 src="https://docs.google.com/document/d/e/2PACX-1vRwbGVRctpu80Dn5DB23sf_36GUuINp_MV-qxm9PY1Dfy5FVxFp2y_7GRspb4VGz-lziilnsqJp5X06/pub?embedded=true">
-width="400"
-height="300"
+width="100%"
+height="100%"
 </iframe>
 </div>
