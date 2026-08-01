@@ -19,7 +19,7 @@
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vRwbGVRctpu80Dn5DB23sf_36GUuINp_MV-qxm9PY1Dfy5FVxFp2y_7GRspb4VGz-lziilnsqJp5X06/pub?embedded=true"></iframe>
 </div>
 
-/*/*/*<script>
+/*<script>
     import { dues } from '$lib/utils/helper';
     let one, oneOne, oneOneOne, oneTwo, oneTwoOne, oneTwoTwo, oneTwoThree, oneTwoFour, oneTwoFive, oneThree;
     let two, twoOne, twoTwo, twoThree;
@@ -58,7 +58,7 @@
 
     h3 {
        /* text-decoration: underline;*/
-        font-size: 1.3em;
+       /* font-size: 1.3em;
         line-height: 1.2em;
     }
 
@@ -114,7 +114,7 @@
     /*p {
         color: #000;
     }*/
-</style>
+/*</style>
 
 <div class="constitution">
     <h1 class="noUnderscore">Night Fishin’ League Constitution</h1>
