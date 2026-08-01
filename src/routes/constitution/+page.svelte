@@ -43,7 +43,7 @@
 
     h4 {
         text-decoration: underline;
-        margin-left: 2em;
+        /*margin-left: 2em;*/
         font-size: 1.2em;
         line-height: 1.2em;
     }
@@ -169,96 +169,101 @@
 
 <h2 class="sectionHeading" bind:this={three}>Section 3: Scoring Settings</h2>
 <h4>Offense – Passing</h4>
-<p>
+<ul>
+<li>
 Passing Yards: 1 point for every 25 yards
-</p>
-<p>
+</li>
+<li>
 Passing Touchdowns: 4 points
-</p>
-<p>
+</li>
+<li>
 Interceptions Thrown: -2 points
-</p>
+</li>
 <h4>
 Offense – Rushing/Receiving
 </h4>
-<p>
+<li>
 Rushing/Receiving Yards: 1 point for every 10 yards
-</p>
-<p>
+</li>
+<li>
 Rushing/Receiving Touchdowns: 6 points
-</p>
-<p>
- 
-</p>
+</li>
+</ul>
 <h4>
 Offense – Miscellaneous
 </h4>
-<p>
+<ul>
+<li>
 Fumble Recovered for a Touchdown: 6 points
-</p>
-<p>
+</li>
+<li>
 2 Point Conversion: 2 points
-</p>
-<p>
+</li>
+<li>
 Fumbles Lost: -2 points
-</p>
-<p>
+</li>
+<li>
 ** Marginal points are used for offensive yardage
-</p>
+</li>
+</ul>
 <h4>
 Kicking
 </h4>
-<p>
+<ul>
+<li>
 PAT Made: 1 point
-</p>
-<p>
+</li>
+<li>
 FG Made 0-49: 3 points
-</p>
-<p>
+</li>
+<li>
 FG Made 50+: 5 points
-</p>
+</li>
+</ul>
 <h4>
 Defense/Special Teams
 </h4>
-<p>
+<ul>
+<li>
 Sacks: 1 point
-</p>
-<p>
+</li>
+<li>
 Interceptions: 2 points
-</p>
-<p>
+</li>
+<li>
 Fumbles Recovered: 2 points
-</p>
-<p>
+</li>
+<li>
 Safeties: 2 points
-</p>
-<p>
+</li>
+<li>
 Touchdowns: 6 points
-</p>
-<p>
+</li>
+<li>
 Kickoff and Punt Return Touchdowns: 6 points
-</p>
-<p>
+</li>
+<li>
 0 Points Allowed: 10 points
-</p>
-<p>
+</li>
+<li>
 1-6 Points Allowed: 7 points
-</p>
-<p>
+</li>
+<li>
 7-13 Points Allowed: 4 points
-</p>
-<p>
+</li>
+<li>
 14-20 Points Allowed: 1 point
-</p>
-<p>
+</li>
+<li>
 21-27 Points Allowed: 0 points
-</p>
-<p>
+</li>
+<li>
 28-34 Points Allowed: -1 point
-</p>
-<p>
+</li>
+<li>
 35+ Points Allowed: -4 points
-</p>
+</li>
+</ul>
     
 
     <ol>
