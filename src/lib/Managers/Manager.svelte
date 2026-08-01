@@ -134,7 +134,7 @@
     }
 
     .philosophy {
-        margin: 2em 1.5em 2em;
+        text-align: center
         text-indent: 4em;
     }
 
@@ -295,7 +295,7 @@
         {#if viewManager.philosophy}
             <!-- philosophy is an optional field -->
             <h3>Team Philosophy</h3>
-            <center><p class="philosophy">{@html viewManager.philosophy}</p></center>
+            <p class="philosophy">{@html viewManager.philosophy}</p>
         {/if}
     </div>
 
