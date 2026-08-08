@@ -228,7 +228,7 @@
         <h2>
             {viewManager.name}
             <!-- <div class="teamSub">{coOwners ? 'Co-' : ''}Manager of <i>{getTeamNameFromTeamManagers(leagueTeamManagers, rosterID, year)}</i></div> -->
-            <div class="teamSub"> {}Manager of <i>{getTeamNameFromTeamManagers(leagueTeamManagers, rosterID, year)}</i></div>
+            <div class="teamSub"> Manager of <i>{getTeamNameFromTeamManagers(leagueTeamManagers, rosterID, year)}</i></div>
         </h2>
         
         <div class="basicInfo">
