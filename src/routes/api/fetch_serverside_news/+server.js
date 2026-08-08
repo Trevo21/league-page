@@ -59,28 +59,28 @@ const processFF = (articles) => {
 	return finalArticles;
 }
 
-const processFTN = (rawArticles) => {
-	let finalArticles = [];
-	const items = rawArticles.items;
-	for(const article of items) {
-		// only grab important info
-		if(article.priority > 3) continue;
-		const ts = Date.parse(article.datetime);
-		const d = new Date(ts);
-		const date = stringDate(d);
-		const icon = 'newsIcons/ftn.png';
-		finalArticles.push({
-			title: article.short_text,
-			article: article.text,
-			link: `https://www.ftnfantasy.com/nfl${article.link}`,
-			author: `FTN Fantasy`,
-			ts,
-			date,
-			icon,
-		});
-	}
-	return finalArticles;
-}
+// const processFTN = (rawArticles) => {
+// 	let finalArticles = [];
+// 	const items = rawArticles.items;
+// 	for(const article of items) {
+// 		// only grab important info
+// 		if(article.priority > 3) continue;
+// 		const ts = Date.parse(article.datetime);
+// 		const d = new Date(ts);
+// 		const date = stringDate(d);
+// 		const icon = 'newsIcons/ftn.png';
+// 		finalArticles.push({
+// 			title: article.short_text,
+// 			article: article.text,
+// 			link: `https://www.ftnfantasy.com/nfl${article.link}`,
+// 			author: `FTN Fantasy`,
+// 			ts,
+// 			date,
+// 			icon,
+// 		});
+// 	}
+// 	return finalArticles;
+// }
 
 const processDynastyLeague = (articles) => {
 	let finalArticles = [];
@@ -102,25 +102,25 @@ const processDynastyLeague = (articles) => {
 	return finalArticles;
 }
 
-const processDynastyNerds = (articles) => {
-	let finalArticles = [];
-	for(const article of articles) {
-		const ts = Date.parse(article.pubDate);
-		const d = new Date(ts);
-		const date = stringDate(d);
-		const icon = 'newsIcons/dynastyNerds.jpeg';
-		finalArticles.push({
-			title: article.title,
-			article: article.description,
-			link: article.link,
-			author: `Dynasty Nerds`,
-			ts,
-			date,
-			icon,
-		});
-	}
-	return finalArticles;
-}
+// const processDynastyNerds = (articles) => {
+// 	let finalArticles = [];
+// 	for(const article of articles) {
+// 		const ts = Date.parse(article.pubDate);
+// 		const d = new Date(ts);
+// 		const date = stringDate(d);
+// 		const icon = 'newsIcons/dynastyNerds.jpeg';
+// 		finalArticles.push({
+// 			title: article.title,
+// 			article: article.description,
+// 			link: article.link,
+// 			author: `Dynasty Nerds`,
+// 			ts,
+// 			date,
+// 			icon,
+// 		});
+// 	}
+// 	return finalArticles;
+// }
 
 const stringDate = (d) => {
 	return `${d.getMonth()+1}/${d.getDate()}/${d.getFullYear()} ${d.getHours()}:${(d.getMinutes() < 10 ? '0' : '') + d.getMinutes()}`;
