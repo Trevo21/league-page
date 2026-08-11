@@ -386,7 +386,7 @@
 	{/if}
 </div>
 <!-- Pre Sleeper Testing -->
-<div class="history">
+<!--<div class="history">
 	<h3>2022 Awards</h3>
 
 	<img src="/banner.png" class="banner" alt="The Phoenix" />
@@ -394,7 +394,7 @@
 	<div id="podium">
 		<img src="/podium.png" class="podiumImage" alt="podium" />
 
-		 <!-- champs -->
+		 champs
 		<img src="/managers/james.jpg" class="first champ" alt="champion" />
 		<img src="/laurel.png" class="laurel" alt="laurel" />
 		<p><span class="label firstLabel"> James </span></p>
@@ -404,8 +404,8 @@
 
 		<img src="{getAvatarFromTeamManagers(leagueTeamManagers, third, year)}" class="third champ clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: third})} alt="3rd" />
 		<span class="label thirdLabel clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: third})}>{@html getNestedTeamNamesFromTeamManagers(leagueTeamManagers, year, third)}</span> -->
-	</div>
-</div>
+	<!-- </div>
+</div> -->
 	<!-- <div class="divisions">
 		{#each divisions as division}
 			{#if division.rosterID}
