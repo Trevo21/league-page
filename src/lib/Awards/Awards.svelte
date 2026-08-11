@@ -21,6 +21,12 @@
 		width: 100%;
 		z-index: 1;
 	}
+.history {
+		display: block;
+		position: relative;
+		width: 100%;
+		z-index: 1;
+	}
 
 	#podium {
 		width: 600px;
