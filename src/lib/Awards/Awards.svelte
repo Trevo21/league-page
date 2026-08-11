@@ -380,7 +380,7 @@
 	{/if}
 </div>
 <!-- Pre Sleeper Testing -->
-<div class="awards">
+<div class="history">
 	<h3>2022 Awards</h3>
 
 	<img src="/banner.png" class="banner" alt="The Phoenix" />
