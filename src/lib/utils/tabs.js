@@ -62,6 +62,11 @@ export const tabs = [
                 dest: '/awards',
             },
             {
+                icon: 'emoji_events',
+                label: 'Trophy Room Legacy',
+                dest: '/awardslegacy',
+            },
+            {
                 icon: 'military_tech',
                 label: 'Records',
                 dest: '/records',
