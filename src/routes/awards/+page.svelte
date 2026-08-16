@@ -388,7 +388,7 @@
 		<p><span class="label firstLabel"> James </span></p>
 
 		<img src="/managers/james.jpg" class="second champ" alt="2nd" />
-		<p><span class="label firstLabel"> James </span></p>
+		<p><span class="label secondLabel"> James </span></p>
 		<img src="/managers/james.jpg" class="third champ" alt="3rd" />
 		<p><span class="label thirdLabel"> James </span></p>
 	</div>
