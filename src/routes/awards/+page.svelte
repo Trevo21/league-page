@@ -392,7 +392,6 @@
 		<img src="/managers/james.jpg" class="third champ" alt="3rd" />
 		<p><span class="label thirdLabel"> James </span></p>
 	</div>
-</div>
 <div class="divisions">
 	<div class="division">
 		<h6>North Division</h6>
