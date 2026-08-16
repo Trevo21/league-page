@@ -51,3 +51,22 @@
 		<p>Something went wrong: {error.message}</p>
 	{/await}
 </div>
+<div class="history">
+	<h3>2022 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 champs
+		<img src="/managers/james.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> James </span></p>
+
+		<img src="/managers/james.jpg" class="second champ" alt="2nd" />
+		<p><span class="label firstLabel"> James </span></p>
+		<img src="/managers/james.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> James </span></p>
+	</div>
+</div>
