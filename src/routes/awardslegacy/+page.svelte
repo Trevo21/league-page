@@ -338,11 +338,10 @@
 		<img src="/laurel.png" class="laurel" alt="laurel" />
 		<p><span class="label firstLabel"> James </span></p>
 
-		<img src="{getAvatarFromTeamManagers(leagueTeamManagers, second, year)}" class="second champ clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: second})} alt="2nd" />
-		<span class="label secondLabel clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: second})}>{@html getNestedTeamNamesFromTeamManagers(leagueTeamManagers, year, second)}</span>
-
-		<img src="{getAvatarFromTeamManagers(leagueTeamManagers, third, year)}" class="third champ clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: third})} alt="3rd" />
-		<span class="label thirdLabel clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: third})}>{@html getNestedTeamNamesFromTeamManagers(leagueTeamManagers, year, third)}</span> -->
+		<img src="/managers/james.jpg" class="second champ" alt="2nd" />
+		<p><span class="label firstLabel"> James </span></p>
+		<img src="/managers/james.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> James </span></p>
 	</div>
 </div>
 	<!-- <div class="divisions">
