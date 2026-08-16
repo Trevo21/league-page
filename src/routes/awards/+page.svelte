@@ -122,8 +122,8 @@
 
 	.divisionLeader {
 		position: absolute;
-		width: 70px;
-		height: 70px;
+		width: 72px;
+		height: 72px;
 		transform: translate(-50%, 0%);
 		top: 0;
 		left: 50%;
@@ -152,8 +152,8 @@
 
 	.toiletWinner {
 		position: absolute;
-		width: 65px;
-		height: 65px;
+		width: 67px;
+		height: 67px;
 		transform: translate(-50%, 0%);
 		top: 20px;
 		left: 55%;
