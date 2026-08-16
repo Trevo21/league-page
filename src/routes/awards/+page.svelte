@@ -412,6 +412,6 @@
 			<img src="/managers/james.jpg" class="toiletWinner" alt="toilet bowl winner" />
 			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
 		</div>
-		<span class="genLabel" >James</span>
+		<span class="genLabel" > James </span>
 	</div>
 </div>
