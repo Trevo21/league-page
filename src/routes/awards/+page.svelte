@@ -397,7 +397,7 @@
 	<div class="division">
 		<h6>North Division</h6>
 			<div class="leaderBlock">
-					<img src="/managers/james.jpg" alt="North champion" />
+					<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
 					<img src="/medal.png" class="medal" alt="champion" />
 			</div>
 	</div>
