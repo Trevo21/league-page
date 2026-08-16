@@ -393,3 +393,27 @@
 		<p><span class="label thirdLabel"> James </span></p>
 	</div>
 </div>
+<div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+					<img src="/managers/james.jpg" alt="North champion" />
+					<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+	</div>
+</div>
+
+		Toilet Bowl -->
+	<!-- {#if toilet}
+		<div class="toiletParent">
+			
+			<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+			<div class="toiletBowl">
+				<img src="{getAvatarFromTeamManagers(leagueTeamManagers, toilet, year)}" class="toiletWinner clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: toilet})} alt="toilet bowl winner" />
+				<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+			</div>
+			<span class="genLabel clickable" onclick={() => gotoManager({year, leagueTeamManagers, rosterID: toilet})}>{@html getNestedTeamNamesFromTeamManagers(leagueTeamManagers, year, toilet)}</span>
+		</div>
+	{/if}
+</div> -->
