@@ -382,7 +382,7 @@
 	<div id="podium">
 		<img src="/podium.png" class="podiumImage" alt="podium" />
 
-		 champs
+		 <!-- champs -->
 		<img src="/managers/james.jpg" class="first champ" alt="champion" />
 		<img src="/laurel.png" class="laurel" alt="laurel" />
 		<p><span class="label firstLabel"> James </span></p>
