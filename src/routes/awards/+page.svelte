@@ -71,8 +71,8 @@
 
 	.champ {
 		position: absolute;
-		width: 435px;
-		height: 435px;
+		width: 108px;
+		height: 108px;
 		transform: translate(-50%, -50%);
 		border-radius: 100%;
 		border: 1px solid var(--bbb);
