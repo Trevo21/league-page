@@ -387,12 +387,12 @@
 		<img src="/laurel.png" class="laurel" alt="laurel" />
 		<p><span class="label firstLabel"> James </span></p>
 
-		<img src="/managers/james.jpg" class="second champ" alt="2nd" />
-		<p><span class="label secondLabel"> James </span></p>
-		<img src="/managers/james.jpg" class="third champ" alt="3rd" />
-		<p><span class="label thirdLabel"> James </span></p>
+		<img src="/managers/stevie.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Stevie </span></p>
+		<img src="/managers/jordan.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Jordan </span></p>
 	</div>
-<div class="divisions">
+<!-- <div class="divisions">
 	<div class="division">
 		<h6>North Division</h6>
 			<div class="leaderBlock">
@@ -416,8 +416,356 @@
 				<img src="/medal.png" class="medal" alt="champion" />
 			</div>
 		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/meezy.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Meezy </span>
 	</div>
 </div>
+
+<div class="history">
+	<h3>2021 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/jordan.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Jordan </span></p>
+
+		<img src="/managers/dotson.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Dotson </span></p>
+		<img src="/managers/jay.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Jay </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/cruit.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Cruit </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2020 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/jordan.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Jordan </span></p>
+
+		<img src="/managers/meezy.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Meezy </span></p>
+		<img src="/managers/parker.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Cam </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/tyson.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Tyson </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2019 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/parker.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Cam Parker </span></p>
+
+		<img src="/managers/tyson.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Tyson </span></p>
+		<img src="/managers/freddy.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Freddy </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/cruit.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Cruit </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2018 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/stevie.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Stevie </span></p>
+
+		<img src="/managers/tyson.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Tyson </span></p>
+		<img src="/managers/cruit.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Cruit </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/jay.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Jay </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2017 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/jordan.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Jordan </span></p>
+
+		<img src="/managers/meezy.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Meezy </span></p>
+		<img src="/managers/timmy.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Timmy </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/jay.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Jay </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2016 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/freddy.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Freddy </span></p>
+
+		<img src="/managers/stevie.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Stevie </span></p>
+		<img src="/managers/jordan.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Jordan </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
 
 		<!-- Toilet Bowl -->
 <div class="toiletParent">
@@ -429,5 +777,179 @@
 			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
 		</div>
 		<span class="genLabel" > James </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2015 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/tyson.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Tyson </span></p>
+
+		<img src="/managers/timmy.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Timmy </span></p>
+		<img src="/managers/cruit.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Cruit </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/freddy.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Freddy </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2014 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/jordan.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Jordan </span></p>
+
+		<img src="/managers/question.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Sam </span></p>
+		<img src="/managers/stevie.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Stevie </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/question.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Ash </span>
+	</div>
+</div>
+
+<div class="history">
+	<h3>2013 Awards</h3>
+
+	<img src="/banner.png" class="banner" alt="The Phoenix" />
+
+	<div id="podium">
+		<img src="/podium.png" class="podiumImage" alt="podium" />
+
+		 <!-- champs -->
+		<img src="/managers/meezy.jpg" class="first champ" alt="champion" />
+		<img src="/laurel.png" class="laurel" alt="laurel" />
+		<p><span class="label firstLabel"> Meezy </span></p>
+
+		<img src="/managers/parker.jpg" class="second champ" alt="2nd" />
+		<p><span class="label secondLabel"> Cam Parker </span></p>
+		<img src="/managers/dotson.jpg" class="third champ" alt="3rd" />
+		<p><span class="label thirdLabel"> Dotson </span></p>
+	</div>
+<!-- <div class="divisions">
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+	<div class="division">
+		<h6>North Division</h6>
+			<div class="leaderBlock">
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
+			</div>
+		<span class="genLabel">James</span>
+	</div>
+</div> -->
+
+		<!-- Toilet Bowl -->
+<div class="toiletParent">
+			
+	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
+
+		<div class="toiletBowl">
+			<img src="/managers/jordan.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
+		</div>
+		<span class="genLabel" > Jordan </span>
 	</div>
 </div>
