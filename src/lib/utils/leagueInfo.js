@@ -125,7 +125,7 @@ export const managers = [
       "managerID": "463439227233759232",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "name": "Cruit",
       "tookOver": "Founder", // (DEPRECATED! You don't need to use this anymore) (optional) used if a manager took over a team, delete this line or change to null otherwise
-      "location": "Jacksonville", // (optional)
+      "location": "Tampa", // (optional)
       "bio": "First Woman in the League",
       "photo": "/managers/cruit.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2009, // (optional) when did the manager start playing fantasy football
