@@ -396,26 +396,26 @@
 	<div class="division">
 		<h6>North Division</h6>
 			<div class="leaderBlock">
-					<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
-					<img src="/medal.png" class="medal" alt="champion" />
-					<span class="genLabel">James</span>
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
 			</div>
+		<span class="genLabel">James</span>
 	</div>
-		<div class="division">
-		<h6>Central Division</h6>
+	<div class="division">
+		<h6>North Division</h6>
 			<div class="leaderBlock">
-					<img src="/managers/james.jpg" class="divisionLeader" alt="Central champion" />
-					<img src="/medal.png" class="medal" alt="champion" />
-					<span class="genLabel">James</span>
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
 			</div>
+		<span class="genLabel">James</span>
 	</div>
-		<div class="division">
-		<h6>South Division</h6>
+	<div class="division">
+		<h6>North Division</h6>
 			<div class="leaderBlock">
-					<img src="/managers/james.jpg" class="divisionLeader" alt="South champion" />
-					<img src="/medal.png" class="medal" alt="champion" />
-					<span class="genLabel">James</span>
+				<img src="/managers/james.jpg" class="divisionLeader" alt="North champion" />
+				<img src="/medal.png" class="medal" alt="champion" />
 			</div>
+		<span class="genLabel">James</span>
 	</div>
 </div>
 
