@@ -657,7 +657,7 @@
 	<img src="/toilet-banner.png" class="toilet-banner" alt="The Toilet Bowl" />
 
 		<div class="toiletBowl">
-			<img src="/managers/Jay.jpg" class="toiletWinner" alt="toilet bowl winner" />
+			<img src="/managers/jay.jpg" class="toiletWinner" alt="toilet bowl winner" />
 			<img src="/toilet-bowl-2.png" class="toilet" alt="toilet bowl" />
 		</div>
 		<span class="genLabel" > Jay </span>
