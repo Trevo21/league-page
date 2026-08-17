@@ -349,7 +349,8 @@
                 <div class="awardIcon">
                     <img class="awardImage" src="{award.icon}" alt="trophy" />
                 </div>
-                <div class="awardLabel">{award.type == 'award' ? `${award.year} ` : ''}{computeAward(award.award)}{award.former ? '*' : ''}</div>
+               <!-- <div class="awardLabel">{award.type == 'award' ? `${award.year} ` : ''}{computeAward(award.award)}{award.former ? '*' : ''}</div> -->
+				<div class="awardLabel">{award.type == 'award' ? `${award.year} ` : ''}{computeAward(award.award)}</div>
                 {#if award.extraInfo}
                     <div class="subText">{award.year ? `${award.year} ` : ''}{award.week ? `Week ${award.week} ` : ''}{award.year || award.week ? ' - ' : ''}{award.extraInfo}{award.wins ? ' Wins' : ''}{award.iq ? '%' : ''}{!award.wins && !award.iq ? 'pts' : ''}</div>
                 {/if}
