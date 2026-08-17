@@ -358,7 +358,7 @@
             <p class="sad">...nothing yet</p>
         {/each}
     </div>
-    {#if formerGlobal}
+   <!-- {#if formerGlobal}
         <p class="disclaimer">*Awarded under a previous manager</p>
-    {/if}
+    {/if} -->
 </div>
