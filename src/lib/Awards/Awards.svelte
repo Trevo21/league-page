@@ -207,7 +207,7 @@
 	.banner {
 		display: block;
 		width: 75%;
-		max-width: 450px;
+		max-width: 550px;
 		margin: 20px auto 0;
 	}
 
