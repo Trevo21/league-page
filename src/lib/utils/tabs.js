@@ -72,6 +72,11 @@ export const tabs = [
                 dest: '/constitution',
             },
             {
+                icon: 'military_tech',
+                label: 'Records',
+                dest: '/histrecords',
+            },
+            {
                 icon: 'sports_football',
                 label: 'Go to Sleeper',
                 dest: `https://sleeper.com/leagues/1337254017100709888`,
