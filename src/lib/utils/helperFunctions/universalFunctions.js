@@ -94,11 +94,20 @@ export const getAuthor = (leagueTeamManagers, author) => {
 export const getAvatar = (leagueTeamManagers, author) => {
     for(const uID in leagueTeamManagers.users) {
         if(leagueTeamManagers.users[uID].user_name.toLowerCase() == author.toLowerCase()) {
-            return `https://sleepercdn.com/avatars/thumbs/${leagueTeamManagers.users[uID].avatar}`;
+            return leagueTeamManagers.users[uID].metadata.avatar ? leagueTeamManagers.users[uID].metadata.avatar : `https://sleepercdn.com/avatars/thumbs/${leagueTeamManagers.users[uID].avatar}`;
         }
     }
     return QUESTION;
 }
+
+// export const getAvatar = (leagueTeamManagers, author) => {
+//     for(const uID in leagueTeamManagers.users) {
+//         if(leagueTeamManagers.users[uID].user_name.toLowerCase() == author.toLowerCase()) {
+//             return `https://sleepercdn.com/avatars/thumbs/${leagueTeamManagers.users[uID].avatar}`;
+//         }
+//     }
+//     return QUESTION;
+// }
 
 export const parseDate = (rawDate) => {
     const ts = Date.parse(rawDate);
