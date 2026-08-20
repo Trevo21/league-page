@@ -74,7 +74,7 @@ export const tabs = [
             {
                 icon: 'military_tech',
                 label: 'Historical Records',
-                dest: '/histrecords',
+                dest: '/history',
             },
             {
                 icon: 'sports_football',
